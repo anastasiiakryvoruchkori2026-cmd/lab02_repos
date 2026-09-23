@@ -23,6 +23,7 @@ int main() {
 	z2 = sqrt((x + 3) / (x - 3));
 
 	cout << endl;
+	cout << "Results" << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
 	cout << "\nCalculation completed!" << endl;
